@@ -1,0 +1,230 @@
+<mjml>
+  <mj-head>
+    <mj-title>SCLM EVENT</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-font name="Quantico" href="https://fonts.googleapis.com/css2?family=Quantico"></mj-font>
+    <mj-style>
+      @import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css";
+    </mj-style>
+    <mj-style>
+      @import url('http://fonts.cdnfonts.com/css/led-digital-7');
+    </mj-style>
+
+    <!--Generall Classes for all sections-->
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="14px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+      <mj-class name="main_head" font-family="Quantico" text-transform="uppercase" align="left" padding="0 20px" color="#0000FF" font-size="30px" line-height="40px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+
+    <mj-section padding-top=" 0px" padding-bottom=" 0px" background-color="#F2FFFF" border="0.1px solid">
+      <!--mj-column width="570px"-->
+      <mj-column width="80%" padding-top=" 20px">
+        <!--mj-button background-color="transparent" css-class="box-shadow">You can't click me!</mj-button-->
+        <mj-text mj-class="main_head">SCLM Research Forum</mj-text>
+
+        <!--mj-text align="left" padding="0 20px"><strong><span style="font-size: 40px;">⚊</span></strong><br /><br /></mj-text-->
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image padding-right="0px" padding-left="25px" align="left" width="50px" border-radius=50% href="" src="https://www.dropbox.com/s/2o94zbx3kkc2iyg/chain.png?dl=1"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top=" 20px">
+      <mj-column width="70%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none">
+              Ripple Effect, Resilience and Viability in Supply Chains
+            </a> </h3>
+          <!--p style="font-size: 14px">As a developer, should you use modules or code this bit of feature by yourself? Let's find out.</p-->
+          <p style="font-size: 14px">Date:</p>
+          <mj-text>
+            <span class="fa-stack fa-2x">
+              <i class="fa fa-calendar fa-stack-2x" style="color:#000080;"></i>
+              <span class="fa fa-stack-1x" style="color:yellow;padding-top:5px">
+                <span style="font-size:20px;">SUN</span>
+              </span>
+            </span>
+
+            <span class="fa-stack fa-2x">
+              <i class="fa fa-calendar fa-stack-2x" style="color:#000080;"></i>
+              <span class="fa fa-stack-1x" style="color:yellow;padding-top:5px">
+                <span style="font-size:20px;">05</span>
+              </span>
+            </span>
+
+            <span class="fa-stack fa-2x">
+              <i class="fa fa-calendar fa-stack-2x" style="color:#000080;"></i>
+              <span class="fa fa-stack-1x" style="color:yellow;padding-top:5px">
+                <span style="font-size:20px;">OCT</span>
+              </span>
+            </span>
+
+            <span class="fa-stack fa-2x">
+              <i class="fa fa-calendar fa-stack-2x" style="color:#000080;"></i>
+              <span class="fa fa-stack-1x" style="color:yellow;padding-top:5px">
+                <span style="font-size:20px;">2021</span>
+              </span>
+            </span>
+          </mj-text>
+        </mj-text>
+
+        <mj-text align="center" padding-left="5px" font-family="'LED Digital 7'" color="#000080" font-size="30px" line-height="18px">5:00 pm</mj-text>
+
+
+
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image padding-right="10px" padding-left="0px" align="center" width="70px" border-radius=50% href="" src="https://www.dropbox.com/s/bialzubr76kupjw/dmitry_ivanov.jpeg?dl=1"></mj-image>
+        <mj-text align="center" padding-left="5px" font-family="Quantico" color="#000080" font-size="16px" line-height="18px">Proff. Dmirty Ivanov</mj-text>
+        <mj-text align="center" padding-left="5px" font-family="Quantico" color="#000080" font-size="12px" line-height="10px">HWR Berlin</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--mj-section>
+      <mj-column width="100%">
+        <mj-image href="https://recast.ai?ref=newsletter" src="https://cdn.recast.ai/newsletter/city-01.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">Your bimonthly intake of AI, machine learning and bots is here!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #18 - DECEMBER</mj-text>
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+      </mj-column>
+    </mj-section-->
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p>Dear Colleague,</p>
+          <p> You are cordially invited to attend this webinar: </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="11%">
+        <mj-image padding-right="0px" padding-left="25px" align="left" width="70px" border-radius=50% href="" src="https://www.dropbox.com/s/esmxhssnmgdfrph/masih_fadaki.jpg?dl=1"></mj-image>
+      </mj-column>
+      <mj-column width="89%">
+        <mj-text padding="0 25px">
+          <p style="line-height: 9px"> Masih Fadaki </p>
+          <p style="font-style: italic; line-height: 9px"> SCLM Research Committee Rep </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none">
+              Abstract:
+            </a> </h3>
+        </mj-text>
+        <mj-text style="font-size: 14px" align="justify">
+          In this talk, we collate and review the existing knowledge in managing the ripple effect in supply chains and debate about extensions of the existing theories and practices of supply chain resilience towards viability. We present the Viable Supply Chain model and associated concepts of the intertwined supply networks and reconfigurable supply chains. Finally, we discuss the role of digital supply chain twins and platforms in managing resilience and viability at the times of super disruptions such as COVID-19 pandemic.
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="" src="https://www.dropbox.com/s/uubq6k12tfvrdt4/abstract.png?dl=1"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none;">
+              Presenter Bio:
+            </a> </h3>
+        </mj-text>
+        <mj-text style="font-size: 12px;" align="justify">
+          Prof. Dmitry Ivanov is professor of Supply Chain and Operations Management at Berlin School of Economics and Law (HWR Berlin), deputy director and executive board member of Institute for Logistics (IfL) at HWR Berlin, and faculty director of M.A. Global Supply Chain and Operations Management program at HWR Berlin. His research explores structural dynamics and control in complex networks, with applications to supply chain resilience, scheduling in Industry 4.0 systems, supply chain simulation, risk analytics and digital supply chain twins.
+        </mj-text>
+        <mj-text style="font-size: 12px;" align="justify">
+          He is Editor of International Journal of Integrated Supply Management and an Associate Editor in International Journal of Production Research, International Transactions in Operational Research, and International Journal of Systems Science. He is an editorial board member, associate and guest-editor in different journals, including Annals of Operations Research, Annual Reviews in Control, International Journal of Production Economics, International Journal of Production Research, International Transactions in Operational Research, International Journal of Integrated Supply Management, International Journal of Information Management, International Journal of Inventory Research, International Journal of Physical Distribution and Logistics Management, International Journal of Systems Science, and Production Journal.
+        </mj-text>
+        <mj-text style="font-size: 12px;" align="justify">
+          Further info: <a href="https://blog.hwr-berlin.de/ivanov/" style="color: #3498DB; text-decoration: none;">
+            https://blog.hwr-berlin.de/ivanov/
+          </a>
+
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="" src="https://www.dropbox.com/s/uvx3cgvcv7pk07h/presenter.gif?dl=1"></mj-image>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none;">
+              Microsoft Teams:
+            </a> </h3>
+          <p style="font-size: 14px;" align="justify">Meeting <a href="https://blog.hwr-berlin.de/ivanov/" style="color: #3498DB; text-decoration: none;">
+              LINK
+            </a> </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="" src="https://www.dropbox.com/s/1tsjvm5jutw4k11/teams.png?dl=1"></mj-image>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="85%">
+        <mj-text mj-class="main_head"></mj-text>
+      </mj-column>
+      <mj-column width="15%">
+        <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td> <a href="https://rmiteduau.sharepoint.com/sites/SchoolofAccountingInformationaSystemsandSuppplyChain/SitePages/Department-of-Supply-Chain-and-Logistics.aspx">
+                <img width="35" src="https://www.dropbox.com/s/zc7jlomh5nvv15o/web.png?dl=1" />
+              </a> </td>
+            <!--td> <a href="https://www.facebook.com/recastAI">
+                <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
+              </a> </td>
+            <td> <a href="https://medium.com/@RecastAI">
+                <img width="25" src="https://cdn.recast.ai/newsletter/medium.png" />
+              </a> </td>
+            <td> <a href="https://www.youtube.com/channel/UCA0UZlR8crpgwFiVaSTbVWw">
+                <img width="25" src="https://cdn.recast.ai/newsletter/youtube.png" />
+              </a> </td>
+            <td> <a href="https://plus.google.com/u/0/+RecastAi">
+                <img width="25" src="https://cdn.recast.ai/newsletter/google%2B.png" />
+              </a> </td-->
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
