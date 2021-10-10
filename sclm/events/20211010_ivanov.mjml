@@ -143,7 +143,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image display="block" width="100%" href="" src="../../img/abstract.png"></mj-image>
+        <mj-image style="display:block;" width="100%" href="" src="../../img/abstract.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -216,7 +216,7 @@
         <mj-table>
           <tr style="list-style: none;line-height:1">
             <td> <a href="https://rmiteduau.sharepoint.com/sites/SchoolofAccountingInformationaSystemsandSuppplyChain/SitePages/Department-of-Supply-Chain-and-Logistics.aspx">
-                <img width="35" src="../../img/web.png" />
+                <img width="50%" src="../../img/web.png" />
               </a> </td>
             <!--td> <a href="https://www.facebook.com/recastAI">
                 <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
