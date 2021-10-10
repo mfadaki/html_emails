@@ -80,7 +80,7 @@
         <!--mj-text align="left" padding="0 20px"><strong><span style="font-size: 40px;">⚊</span></strong><br /><br /></mj-text-->
       </mj-column>
       <mj-column width="20%">
-        <mj-image padding-right="0px" padding-left="25px" align="left" width="50px" border-radius=50% href="" src="https://www.dropbox.com/s/2o94zbx3kkc2iyg/chain.png?dl=1"></mj-image>
+        <mj-image padding-right="0px" padding-left="25px" align="left" width="50px" border-radius=50% href="" src="../../img/chain.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding-top=" 20px">
@@ -117,7 +117,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="11%">
-        <mj-image padding-right="0px" padding-left="25px" align="left" width="70px" border-radius=50% href="" src="https://www.dropbox.com/s/esmxhssnmgdfrph/masih_fadaki.jpg?dl=1"></mj-image>
+        <mj-image padding-right="0px" padding-left="25px" align="left" width="70px" border-radius=50% href="" src="../../img/masih_fadaki.jpg"></mj-image>
       </mj-column>
       <mj-column width="89%">
         <mj-text padding="0 25px">
@@ -143,7 +143,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="100px" href="" src="https://www.dropbox.com/s/uubq6k12tfvrdt4/abstract.png?dl=1"></mj-image>
+        <mj-image style="display:block;" width="60 !important" href="" src="../../img/abstract.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -172,7 +172,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image padding-right="10px" padding-left="0px" align="center" width="70px" border-radius=50% href="" src="https://www.dropbox.com/s/bialzubr76kupjw/dmitry_ivanov.jpeg?dl=1"></mj-image>
+        <mj-image padding-right="10px" padding-left="0px" align="center" width="70px" border-radius=50% href="" src="../../img/people/dmitry_ivanov.jpeg"></mj-image>
         <mj-text align="center" padding-left="5px" font-family="Quantico" color="#000080" font-size="16px" line-height="18px">Proff. Dmirty Ivanov</mj-text>
         <mj-text align="center" padding-left="5px" font-family="Quantico" color="#000080" font-size="12px" line-height="10px">HWR Berlin</mj-text>
       </mj-column>
@@ -197,7 +197,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="100px" href="" src="https://www.dropbox.com/s/1tsjvm5jutw4k11/teams.png?dl=1"></mj-image>
+        <mj-image width="100px" href="" src="../../img/teams.png"></mj-image>
       </mj-column>
     </mj-section>
 
@@ -216,7 +216,7 @@
         <mj-table>
           <tr style="list-style: none;line-height:1">
             <td> <a href="https://rmiteduau.sharepoint.com/sites/SchoolofAccountingInformationaSystemsandSuppplyChain/SitePages/Department-of-Supply-Chain-and-Logistics.aspx">
-                <img width="35" src="https://www.dropbox.com/s/zc7jlomh5nvv15o/web.png?dl=1" />
+                <img width="50%" src="../../img/web.png" />
               </a> </td>
             <!--td> <a href="https://www.facebook.com/recastAI">
                 <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
