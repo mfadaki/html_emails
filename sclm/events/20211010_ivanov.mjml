@@ -143,7 +143,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image max-width="50%" href="" src="../../img/abstract.png"></mj-image>
+        <mj-image width="80%" href="" src="../../img/abstract.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
